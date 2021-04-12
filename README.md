@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b_saintly
+- 👋 Hi, I’m @b-saint
 - 👀 I’m interested in energy in a low carbon world
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on O&G, refining & petchem industry emissions reduction
